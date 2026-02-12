@@ -1,0 +1,2 @@
+# homeassistant_blebox_smartWindowBox_integration
+Home Assistant Integration for bleBox device smartWindowBox
